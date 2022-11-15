@@ -15,9 +15,9 @@ OpenSource!
 Roadmap to learn Flutter like a pro!
 
 Follow this link to understand how to study dard and flutter perfectly
-👉👉👉 https://plugfox.dev/flutter-developer-roadmap/ 
+<br> 👉👉👉 https://plugfox.dev/flutter-developer-roadmap/ 
 
-![cap](https://github.com/Jacob-dvlp/Roadmap-to-learn-Flutter-like-a-pro-/blob/master/img.jpg)
+![img](https://github.com/Jacob-dvlp/Roadmap-to-learn-Flutter-like-a-pro-/blob/master/img.jpeg)
 
 
 
